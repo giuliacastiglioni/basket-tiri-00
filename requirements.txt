@@ -1,2 +1,6 @@
 streamlit
 streamlit-drawable-canvas
+matplotlib
+reportlab
+fpdf
+io

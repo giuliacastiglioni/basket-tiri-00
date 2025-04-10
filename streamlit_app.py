@@ -39,7 +39,7 @@ else:
 # --- 2. Campo interattivo per scelta zona ---
 st.subheader("2. Clicca sulla zona di tiro")
 
-court_img = Image.open("A_2D_digital_diagram_presents_a_half-court_view_of.png")
+court_img = Image.open("/workspaces/basket-tiri-00/campo.jpg")
 
 canvas_result = st_canvas(
     fill_color="rgba(255, 0, 0, 0.3)",

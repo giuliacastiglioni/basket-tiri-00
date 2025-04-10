@@ -1,10 +1,6 @@
 streamlit
-streamlit-drawable-canvas
 matplotlib
 reportlab
 fpdf
 itertools
-PIL
-streamlit_drawable_canvas
-tempfile
-datetime
+

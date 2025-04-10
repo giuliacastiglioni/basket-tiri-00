@@ -1,12 +1,8 @@
 import streamlit as st
-from streamlit_drawable_canvas import st_canvas
 import datetime
 import tempfile
-from PIL import Image, ImageDraw  # Aggiungi ImageDraw
-from itertools import product
 import matplotlib.pyplot as plt
 from matplotlib.patches import Arc
-from reportlab.lib.pagesizes import letter
 from fpdf import FPDF
 from io import BytesIO
 

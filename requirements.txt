@@ -3,7 +3,6 @@ streamlit-drawable-canvas
 matplotlib
 reportlab
 fpdf
-io
 itertools
 PIL
 streamlit_drawable_canvas
